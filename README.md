@@ -51,7 +51,7 @@ The commit message should read: <br>
 "Commit 2 - Palindrome".
 <hr>
 
-## Digit Sum
+## 3. Digit Sum
 Write a function `sumDigits` that accepts a number and returns the sum of its digits.
 ```
 console.log(sumDigits(42));
@@ -64,7 +64,7 @@ The commit message should read: <br>
 "Commit 3 - Digit Sum".
 <hr>
 
-## Pythagoras
+## 4. Pythagoras
 Write a function `calculateSide` that takes two arguments: `sideA` and `sideB`, and returns the solution for sideC using the Pythagorean theorem.
 
 _hint:_ discover the Pythagorean Theorem on a website called google.com  
@@ -79,7 +79,7 @@ The commit message should read: <br>
 "Commit 4 - Pythagoras".
 <hr>
 
-## Sum Array
+## 5. Sum Array
 Write a function `sumArray` that takes an **array** as an argument.
 The array should contain numbers. The function should return the sum of the numbers in the array.
 
@@ -94,7 +94,7 @@ The commit message should read: <br>
 "Commit 5 - Sum Array".
 <hr>
 
-## Prime Numbers
+## 6. Prime Numbers
 A Prime number is a number that is not evenly divisible by another number except 1 and itself. If you want to read more deeply about it, [go here](https://en.wikipedia.org/wiki/Prime_number).
 To test whether a number is Prime, you only need to test as far as the **square root** of that number. This is advisable for optimization and testing large numbers.
 
