@@ -133,26 +133,26 @@ console.log(insertDash(454793));
 ```
 > `> 4547-9-3`
 
-  Commit.
+    Commit.
 
 3. Write a function `reverseString` that takes a string as a parameter and returns that string with the letters reversed **without using `.split()`, `.reverse()`, or `.join()`**.
 
-  Commit.
+    Commit.
 
 4. Make your palindrome function from problem two above work regardless of spacing (or capitalization). So, for example, "Sit on a potato pan Otis" or "Bird rib" would pass the test.
 
-  Commit.
+    Commit.
 
-4. Make your palindrome function work even if the string contains punctuation.  So: "Sit on a potato pan, Otis!!!" or "A man, a plan, a canal: Panama." would pass the test.
+5. Make your palindrome function work even if the string contains punctuation.  So: "Sit on a potato pan, Otis!!!" or "A man, a plan, a canal: Panama." would pass the test.
 
-  Commit.
+    Commit.
 
-5. Make a "word palindrome" function that returns true if the words in a phrase are the same backwards and fords.  It should not care about spacing, capitalization, or punctuation.  For example the following string would pass the test: 
+6. Make a "word palindrome" function that returns true if the words in a phrase are the same backwards and forwards.  It should not care about spacing, capitalization, or punctuation.  For example the following string would pass the test: 
 ```
-"Son, I am able," she said. "Though you scare me, watch!" said I, "Beloved," I said, "watch me scare you!" Though, said she: "able am I, son"
+"Son, I am able," she said. "Though you scare me, watch!" said I, "Beloved," I said, "watch me scare you!" Though, said she: "able am I, son."
 ```
-  Commit.
+    Commit.
 
-6. You still want more?!?! Do you even sleep? Create an account on [Project euler](https://projecteuler.net/archives) and keep working on those problems.
+7. You still want more?!?! Do you even sleep? Create an account on [Project euler](https://projecteuler.net/archives) and keep working on those problems.
 
 
