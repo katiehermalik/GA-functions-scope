@@ -2,9 +2,9 @@
 
 # Problem solving with Functions 
 
-
 Duration: "3:00 - 4:00" <br>
 Type: Homework<br>
+Class: wdi-cc<br>
 Creator: GA Instructional Team<br>
 Topics: Problem solving with functions<br>
 
