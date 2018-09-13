@@ -128,10 +128,10 @@ You will need to have watched these videos for tomorrow's lab.
 1. Complete the afternoon lab. 
 
 2. Write a function `insertDash` that accepts a number as a parameter and returns a string with a dash inserted between any consecutive **odd numbers**. There should not be a dash at the end, it goes only between numbers.
-```javascript
-console.log(insertDash(454793));
-```
-> `> 4547-9-3`
+  ```javascript
+  console.log(insertDash(454793));
+  ```
+    > `> 4547-9-3`
 
     Commit.
 
