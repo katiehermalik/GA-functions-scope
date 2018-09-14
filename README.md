@@ -53,7 +53,7 @@ The commit message should read: <br>
 
 ## 3. Digit Sum
 Write a function `sumDigits` that accepts a number and returns the sum of its digits.
-```
+```js
 console.log(sumDigits(42));
 => 6;
 ```
@@ -69,7 +69,7 @@ Write a function `calculateSide` that takes two arguments: `sideA` and `sideB`, 
 
 _hint:_ discover the Pythagorean Theorem on a website called google.com  
 _hint:_ checkout the [Math methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math) in javascript
-```
+```js
 console.log(calculateSide(8, 6));
 => 10
 ```
