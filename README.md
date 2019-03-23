@@ -69,6 +69,7 @@ Write a function `calculateSide` that takes two arguments: `sideA` and `sideB`, 
 
 _hint:_ discover the Pythagorean Theorem on a website called google.com  
 _hint:_ checkout the [Math methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math) in javascript
+**_restriction_**: for this problem, do NOT use `Math.hypot()` (but for the rest of time, once you've done this problem feel free)
 ```js
 console.log(calculateSide(8, 6));
 => 10
