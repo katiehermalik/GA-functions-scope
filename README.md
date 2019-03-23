@@ -81,7 +81,7 @@ The commit message should read: <br>
 
 ## 5. Sum Array
 Write a function `sumArray` that takes an **array** as an argument.
-The array should contain numbers. The function should return the sum of the numbers in the array.
+The array should contain numbers. The function should return the sum of the numbers in the array. **Do not use `.reduce()`**.
 
 Expected result:
 ```javascript
