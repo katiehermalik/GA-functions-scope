@@ -13,7 +13,7 @@ Topics: Problem solving with functions<br>
 
 ## Setup
 
-Fork/clone this repo as directed by your instructor. Inside the repo, create the usual folder structure. Write your answers in `app.js`, following [the instructions in today's lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/functions-lab#setup)
+Fork/clone this repo as directed by your instructor. Inside the repo, create the usual folder structure. Write your answers in `app.js`.
 
 
 
