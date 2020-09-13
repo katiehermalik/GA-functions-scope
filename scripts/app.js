@@ -6,3 +6,18 @@
 
 // 3. Functions keep code organized and are useful in creating a return value that can be used elsewhere in a more compact form than the code block that runs inside the function. They are reusable, as are their return values. They can create multiple return values, depending on the arguments that are passed into them.
 
+// ----------- Palindrome again -------------------
+
+function checkPalindrome(str) {
+  const upper = str.toUpperCase()
+  const bkwrds = str.split("").reverse().join("");
+  const bUpper = bkwrds.toUpperCase();
+  if (upper === bUpper) {
+    console.log(true);
+  } else {
+    console.log(false);
+  }
+} 
+console.log(checkPalindrome('RaCeCar')); 
+
+
