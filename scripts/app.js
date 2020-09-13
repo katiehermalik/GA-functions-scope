@@ -54,5 +54,32 @@
 // }
 // sumArray([1, 2, 3, 4, 5, 6]);
 
+// // // ----------------- Prime Numbers -----------------------
 
+// // // Step One
+// function checkPrime(num) {
+//   let arr = [];
+//   for (i = 2; i <= Math.sqrt(num); i++) {
+//     arr.push(num % i);
+//   }
+//   if (arr.includes(0, 0)) {
+//     return false;
+//   } else {
+//     return true;
+//   }
+// }
+// console.log(checkPrime(4));
+// console.log(checkPrime(83));
+// console.log(checkPrime(7489262));
+// console.log(checkPrime(13));
+// console.log(checkPrime(8191));
 
+// // // Step Two
+// function printPrimes(limit, checkPrime)  {
+//   for (j = 0; j <= limit; j++) {
+//     if (checkPrime(j) === true) {
+//       console.log(j);
+//     }
+//   }
+// }
+// console.log(printPrimes(97, checkPrime));
