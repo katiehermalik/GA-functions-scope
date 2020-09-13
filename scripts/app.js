@@ -43,6 +43,16 @@
 //  calculateSide(8, 6);
 
 
+// // // ----------------- Sum Array -----------------------
+ 
+// function sumArray(arr) {
+//   let sum = 0;
+//   for (i = 0; i < (arr.length); i++) {
+//     sum += arr[i];
+//   }
+//   console.log(sum);
+// }
+// sumArray([1, 2, 3, 4, 5, 6]);
 
 
 
